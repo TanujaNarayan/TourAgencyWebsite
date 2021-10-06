@@ -45,7 +45,7 @@ videoBtn.forEach((btn) => {
 
 
 var swiper = new Swiper(".review-slider", {
-  spaceBetween: 20,
+  spaceBetween: 120,
   loop: true,
   autoplay: {
     delay: 2500,
@@ -67,7 +67,7 @@ var swiper = new Swiper(".review-slider", {
 });
 
 var swiper = new Swiper(".brand-slider", {
-  spaceBetween: 20,
+  spaceBetween: 145,
   loop: true,
   autoplay: {
     delay: 2500,
